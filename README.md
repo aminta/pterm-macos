@@ -26,6 +26,13 @@ and to [IRATA.ONLINE](https://irata.online/).
    (On macOS 15 Sequoia and later: try to open it once, then go to
    System Settings → Privacy & Security and click **Open Anyway**.)
 
+## Window size
+
+As in every PTerm version, the window size follows the **View** menu:
+with a fixed zoom (*Zoom display 0.5x … 3.0x*) the window keeps its size;
+choose **View → Keep aspect ratio** (square PLATO screen) or **View →
+Stretch display** to resize the window freely, or **View → Full Screen**.
+
 ## Building
 
 Requirements: Xcode command line tools and cmake (`brew install cmake`).
